@@ -1,7 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 
-import style from 'styles/index.scss'
+import style from '../styles/index.scss'
 
 export default () =>
   <div>
